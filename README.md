@@ -1,21 +1,6 @@
 # Open-Source-Intelligence-Resources
 Compilation of OSINT Resources
 
-### General Links
-
-TCM-Security: https://tcm-sec.com/
-
-Links to Course:
-* Udemy: https://www.udemy.com/course/osint-fundamentals/
-* TCM-Academy: https://academy.tcm-sec.com/p/osint-fundamentals
-
-Twitter: https://twitter.com/thecybermentor
-
-Twitch: https://twitch.tv/thecybermentor
-
-YouTube: https://youtube.com/c/thecybermentor
-
-Discord: https://tcm-sec.com/discord/
 
 ### Note Keeping
 
@@ -39,7 +24,7 @@ Intro to Creating an Effective Sock Puppet (wayback archive): https://web.archiv
 
 The Art Of The Sock - https://www.secjuice.com/the-art-of-the-sock-osint-humint/
 
-My Process for Setting up Anonymous Sock Puppet Accounts(reddit) - https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/
+Process for Setting up Anonymous Sock Puppet Accounts(reddit) - https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/
 
 Fake Name Generator - https://www.fakenamegenerator.com/
 
@@ -235,14 +220,3 @@ Amass - https://github.com/OWASP/Amass
 
 GoWitness - https://github.com/sensepost/gowitness/wiki/Installation
 
-### Additional Resources
-
-TraceLabs - https://www.tracelabs.org/
-
-Innocent Lives Foundation - https://www.innocentlivesfoundation.org/
-
-Alethe Denis - https://twitter.com/AletheDenis
-
-Joe Gray - https://twitter.com/C_3PJoe
-
-IntelTechniques - https://inteltechniques.com/
