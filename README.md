@@ -62,6 +62,8 @@ TinEye - https://tineye.com
 
 ### Email OSINT
 
+Epieos - https://tools.epieos.com/email.php
+
 Hunter.io - https://hunter.io/
 
 Phonebook.cz - https://phonebook.cz/
